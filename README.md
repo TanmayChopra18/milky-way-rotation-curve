@@ -1,7 +1,8 @@
 # Milky Way Rotation Curve from Gaia DR3
 
 ## Overview
-Reconstructed the Milky Way's rotation curve using astrometric and radial velocity data from the Gaia Data Release 3 (DR3) catalog. The rotation curve measures how fast stars orbit the galactic center as a function of their distance from it — its flatness at large radii is one of the key observational signatures of dark matter.
+Reconstructed the Milky Way's rotation curve using astrometric and radial velocity data from the Gaia Data Release 3 (DR3) catalog. T
+he rotation curve measures how fast stars orbit the galactic center as a function of their distance from it. Its flatness at large radii is one of the key observational signatures of dark matter.
 
 ## Data
 - **Source:** Gaia DR3 via ESA's TAP service
